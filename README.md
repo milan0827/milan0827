@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @milan0827
 - 👀 I’m interested in frontend and backend development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 milan0827/milan0827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
