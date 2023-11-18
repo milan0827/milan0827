@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milan0827
+- 👋 Hi, I’m Milan Rokaya, Email: milanrokaya2014@gmail.com
 - 👀 I’m interested in frontend and backend development
 - ⚒️ React js, Node js, MongoDB, HTML and CSS.
 - 🌱 I’m currently learning MERN stack, typescript.
