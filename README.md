@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @milan0827
 - 👀 I’m interested in frontend and backend development
-- 🌱 I’m currently learning MERN stack
+- ⚒️ React js, Node js, MongoDB, HTML and CSS.
+- 🌱 I’m currently learning MERN stack, typescript.
 
 <!---
 milan0827/milan0827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
