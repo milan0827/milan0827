@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Milan Rokaya, Email: milanrokaya2014@gmail.com
-- 👀 I’m interested in frontend and backend development
+- 👋 Hi, I’m Milan Rokaya, Full stack developer
+- 👀 I’m interested in frontend and backend development.
 - ⚒️ React js, Node js, MongoDB, HTML and CSS.
+- ✉️ Email: milanrokaya2014@gmail.com.
 - 🌱 I’m currently learning MERN stack, typescript.
 
 <!---
