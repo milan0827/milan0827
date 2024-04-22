@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Rokaya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milan0827&label=Profile%20views&color=0e75b6&style=flat" alt="milan0827" /> </p>
-<a href="https://app.daily.dev/milan0827"><img src="https://api.daily.dev/devcards/v2/TYdVYju6Tz5GYLmFwaV1p.png?type=wide&r=smm" width="1000" alt="Milan Rokaya's Dev Card"/></a>
+<a href="https://app.daily.dev/milan0827"><img src="https://api.daily.dev/devcards/v2/TYdVYju6Tz5GYLmFwaV1p.png?type=wide&r=smm" width="700" alt="Milan Rokaya's Dev Card"/></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milan0827" alt="milan0827" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
